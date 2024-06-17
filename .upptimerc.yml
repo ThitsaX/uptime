@@ -26,11 +26,11 @@ status-website:
   name: Thitsax
   introTitle: "**Thitsax** status page, powered entirely by GitHub."
   introMessage: This is a Thitsax status page that uses **real-time** data from our Infrastructure 
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  # navbar:
+  #   - title: Status
+  #     href: /
+  #   - title: GitHub
+  #     href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
