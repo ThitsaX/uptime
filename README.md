@@ -1,6 +1,6 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://pye-aung.github.io/uptime/): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Pye Phyoe Aung](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Thitsax](https://pye-aung.github.io/uptime/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/pye-aung/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/pye-aung/uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/pye-aung/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/pye-aung/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
