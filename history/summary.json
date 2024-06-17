@@ -1,8 +1,8 @@
 [
   {
     "name": "Demowallet",
-    "url": "https://outbound.demowallet.thitsanet.wynepayhubsanbox-pre.com/public/heart_beat",
-    "icon": "https://icons.duckduckgo.com/ip3/outbound.demowallet.thitsanet.wynepayhubsanbox-pre.com.ico",
+    "url": "$DEMOWALLET_SITE",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "demowallet",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 721,
-    "timeWeek": 721,
-    "timeMonth": 721,
-    "timeYear": 721,
+    "time": 732,
+    "timeDay": 732,
+    "timeWeek": 732,
+    "timeMonth": 732,
+    "timeYear": 732,
     "dailyMinutesDown": {}
   }
 ]
