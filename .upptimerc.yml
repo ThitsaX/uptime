@@ -4,7 +4,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Demowallet
-    url: https://demowallet.thitsanet.wynepayhubsanbox-pre.com/healthz
+    url: https://outbound.demowallet.thitsanet.wynepayhubsanbox-pre.com/public/heart_beat
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
