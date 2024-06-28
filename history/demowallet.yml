@@ -1,7 +1,7 @@
 url: $DEMOWALLET_SITE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-28T04:39:12.705Z
+status: up
+code: 200
+responseTime: 980
+lastUpdated: 2024-06-28T05:43:45.361Z
 startTime: 2024-06-17T06:52:32.076Z
 generator: Upptime <https://github.com/upptime/upptime>
