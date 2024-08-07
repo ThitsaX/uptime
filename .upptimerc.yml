@@ -23,7 +23,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Thitsax
+  name: ThitsaX
   introTitle: "**Thitsax** status page, powered entirely by GitHub."
   introMessage: This is a Thitsax status page that uses **real-time** data from our Infrastructure 
   # navbar:
