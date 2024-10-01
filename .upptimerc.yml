@@ -52,4 +52,4 @@ workflowSchedule:
   summary: "0 0 1 1 *"
   updateTemplate: "0 0 1 1 *"
   updates: "0 0 1 1 *"
-  uptime: "0 0 * * *"
+  uptime: "*/5 * * * *"
