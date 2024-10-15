@@ -1,7 +1,7 @@
 url: $DEMOMFI_URL
-status: down
-code: 503
-responseTime: 61
-lastUpdated: 2024-10-15T08:04:54.663Z
+status: up
+code: 200
+responseTime: 105
+lastUpdated: 2024-10-15T08:17:35.532Z
 startTime: 2024-09-25T02:35:09.195Z
 generator: Upptime <https://github.com/upptime/upptime>
