@@ -53,4 +53,4 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "* * * * *"
-runner: "[self-hosted, linux, x64]"
+#runner: "[self-hosted, linux, x64]"
